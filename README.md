@@ -18,7 +18,7 @@ The e-learning site provides movie playback with progress checking.
 
 Once the page is loaded, it start reporting the learning progress to the server.
 
-At this point we can manipulate the report procedure by calling the 'report function' with designated parameters.
+At this point we can manipulate the report procedure by calling the #report function# with designated parameters.
 
 ### The function
 
